@@ -1,0 +1,15 @@
+# Created by Octave 4.2.2, Tue May 01 11:32:26 2018 GMT <unknown@unknown>
+# name: login
+# type: sq_string
+# elements: 1
+# length: 4
+exit
+
+
+# name: password
+# type: sq_string
+# elements: 1
+# length: 4
+exit
+
+
